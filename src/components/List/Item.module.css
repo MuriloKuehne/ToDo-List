@@ -40,6 +40,7 @@ label > img {
 
 .trashIcon {
   fill: var(--gray-300);
+  transform: translateY(15%);
 }
 
 .trashIcon:hover {
